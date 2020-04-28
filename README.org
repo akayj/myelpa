@@ -1,3 +1,3 @@
-# MyELPA Mirror
+* MyELPA Mirror
 This is an ELPA packages archive repo, not all packages could be found here.
-Currently used by my own, it is _risky_ used by you.
+Currently used by my own, it is *risky* used by you.
