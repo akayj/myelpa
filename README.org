@@ -1,3 +1,9 @@
 * MyELPA Mirror
 This is an ELPA packages archive repo, not all packages could be found here.
 Currently used by my own, it is *risky* used by you.
+
+** How to use
+Put following line in your `init.el' file.
+#+BEGIN_SRC elisp
+(setq package-archives '(("myelpa-local" . "~/myelpa")))
+#+END_SRC
