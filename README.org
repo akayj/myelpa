@@ -1,6 +1,7 @@
 * MyELPA Mirror
-This is an ELPA packages archive repo, not all packages could be found here.
-Currently used by my own, it is *risky* used by you.
+This is an *ELPA* packages archive repo, but not all packages could be found here.
+Currently used by myself, maybe *risky* for you, because some of these packages
+are not the latest version.
 
 ** How to use
 Put following line in your =init.el= file.
