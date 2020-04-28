@@ -1,5 +1,5 @@
 * MyELPA Mirror
-This is an *ELPA* (*E* macs *L* isp *P* ackage *A* rchive) packages archive repo, but not all packages could be found here.
+This is an *ELPA* (*E*\macs *L*\isp *P*\ackage *A*\rchive) packages archive repo, but not all packages could be found here.
 Currently used by myself, maybe *risky* for you, because some of these packages
 are not the latest version.
 
