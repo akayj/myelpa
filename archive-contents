@@ -36,7 +36,7 @@
  (ht . [(20200217 2331) ((dash (2 12 0))) "The missing hash table library for Emacs" tar])
  (ivy . [(20200427 846) ((emacs (24 5))) "Incremental Vertical completYon" tar])
  (js2-mode . [(20200427 33) ((emacs (24 1)) (cl-lib (0 5))) "Improved JavaScript editing mode" tar])
- (lsp-mode . [(20200427 1612) ((emacs (25 1)) (dash (2 14 1)) (dash-functional (2 14 1)) (f (0 20 0)) (ht (2 0)) (spinner (1 7 3)) (markdown-mode (2 3)) (lv (0))) "LSP mode" tar])
+ (lsp-mode . [(20200428 458) ((emacs (25 1)) (dash (2 14 1)) (dash-functional (2 14 1)) (f (0 20 0)) (ht (2 0)) (spinner (1 7 3)) (markdown-mode (2 3)) (lv (0))) "LSP mode" tar])
  (lsp-ui . [(20200402 839) ((emacs (25 1)) (dash (2 14)) (dash-functional (1 2 0)) (lsp-mode (6 0)) (markdown-mode (2 3))) "UI modules for lsp-mode" tar])
  (lua-mode . [(20200405 1305) ((emacs (24 3))) "a major-mode for editing Lua scripts" tar])
  (lv . [(20200227 1301) nil "Other echo area" tar])
