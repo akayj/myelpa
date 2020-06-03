@@ -41,7 +41,7 @@
  (lsp-ui . [(20200530 618) ((emacs (26 1)) (dash (2 14)) (dash-functional (1 2 0)) (lsp-mode (6 0)) (markdown-mode (2 3))) "UI modules for lsp-mode" tar])
  (lua-mode . [(20200508 1316) ((emacs (24 3))) "a major-mode for editing Lua scripts" tar])
  (lv . [(20200507 1518) nil "Other echo area" tar])
- (magit . [(20200601 1812) ((emacs (25 1)) (async (20180527)) (dash (20180910)) (git-commit (20181104)) (transient (20190812)) (with-editor (20181103))) "A Git porcelain inside Emacs." tar])
+ (magit . [(20200603 209) ((emacs (25 1)) (async (20180527)) (dash (20180910)) (git-commit (20181104)) (transient (20190812)) (with-editor (20181103))) "A Git porcelain inside Emacs." tar])
  (magit-filenotify . [(20151116 2340) ((magit (1 3 0)) (emacs (24 4))) "Refresh status buffer when git tree changes" tar])
  (markdown-mode . [(20200602 1433) ((emacs (25 1))) "Major mode for Markdown-formatted text" tar])
  (memoize . [(20200103 2036) nil "Memoization functions" tar])
