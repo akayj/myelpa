@@ -68,4 +68,7 @@
  (with-editor . [(20200522 1112) ((emacs (24 4)) (async (1 9))) "Use the Emacsclient as $EDITOR" tar])
  (yaml-mode . [(20200518 914) ((emacs (24 1))) "Major mode for editing YAML files" tar])
  (yasnippet . [(20200524 2215) ((cl-lib (0 5))) "Yet another snippet extension for Emacs" tar])
+ (typescript-mode . [(20200430 1232) ((emacs (24 3))) "Major mode for editing typescript" tar])
+ (flycheck . [(20200527 1502) ((dash (2 12 1)) (pkg-info (0 4)) (let-alist (1 0 4)) (seq (1 11)) (emacs (24 3))) "Onfly syntax checking" tar])
+ (tide . [(20200523 1218) ((dash (2 10 0)) (s (1 11 0)) (flycheck (27)) (typescript-mode (0 1)) (cl-lib (0 5))) "Typescript Interactive Development Environment" tar])
 )
